@@ -1,21 +1,29 @@
-username: 
-password: 
+username:
+password:
 
 positions:
-- Data Scientist
-- # Another position you want to search for
-- # A third position you want to search for
+  - Software Engineer
+  - Javascript Engineer
+  - Full Stack Engineer
+  - Frontend Engineer
+  - Software Developer
+  - Javascript Developer
+  - Typescript Engineer
+  - Typescript Developer
+  - React Engineer
+  - React Developer
 
 locations:
-- Remote
-- # A second location you want to search in 
-
+  - Remote
+  - Los Angeles Metropolitan Area
+  - San Francisco Bay Area
+  - California, United States
+  - United States
 # --------- Optional Parameters -------
 # uploads:
-#  Resume: # PATH TO Resume 
+#  Resume: # PATH TO Resume
 #  Cover Letter: # PATH TO cover letter
 #  Photo: # PATH TO photo
-
 
 # output_filename:
 # - # PATH TO OUTPUT FILE (default output.csv)
